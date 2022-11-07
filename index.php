@@ -18,7 +18,7 @@
 	<div id="map-canvas"></div>
 
 	<script src="javascript.js"></script>
-	<script async defer src="https://maps.googleapis.com/maps/api/js?key=SUA_CHAVE&libraries=places&callback=initialize"></script>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCm9YcCBjGuFx9lclRwzDOSU7fuhuq-G5Y&libraries=places&callback=initialize"></script>
 </body>
 
 </html>
